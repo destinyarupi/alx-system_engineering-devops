@@ -1,0 +1,1 @@
+Scripts and documents pertaining to the ALX Software Engineering program can be found in this repository. A separate subject or project is represented by each directory in the repository. The scripts offered here are made to cover a variety of system administration and shell scripting topics. 
