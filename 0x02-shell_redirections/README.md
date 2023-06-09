@@ -35,3 +35,22 @@ task 15: The script '15-countthatword' displays the number of lines that contain
 task 16: The script '16-whatsnext' displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 task 17: The script '17-hidethisword' displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+task 18: The script '18-letteronly' displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+task 19: The script '19-AZ' replaces all characters A and C from input to z and e respectively.
+
+task 20: The script '20-hiago' removes all letters c and C from input.
+
+task 21: The script '21-reverse' reverses its input.
+
+task 22: The script '22-user_and_homes'displays all users and their home directories, sorted by users.
+
+task 23: The script '100-empty_casks' finds all empty files and directories in the current directory and all sub-directories.
+
+task 24: The script '101-gifs' lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+task 25: The script '102-acrostic' decodes acrostics that use the first letter of each line.
+
+task 26: The script '103-the_biggest_fan' parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+
