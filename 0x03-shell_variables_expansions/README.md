@@ -34,4 +34,4 @@ task 15: The script '101-rot13' encodes and decodes text using the rot13 encrypt
 
 task 16: The script '102-odd' prints every other line from the input, starting with the first line.
 
-task 17: The script '103-water_and_sti' adds the two numbers stored in the environment variables WATER and STIR and prints the result
+task 17: The script '103-water_and_sti' adds the two numbers stored in the environment variables WATER and STIR and prints the result.
